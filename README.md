@@ -1,6 +1,7 @@
-**Project Overview**
+# Building Indoor Localization with Deep Learning using Unconstrained Images
 
-Dissertation Title: Building Indoor Localization with Deep Learning using Unconstrained Images.
+
+**Project Overview**
 
 The initial idea of this project was to develop an indoor navigation that could allow a user or robot to navigate their indoor environment with only a mobile device. One of the main impediments to creating a system has been solving the indoor localisation problem allowing the user to accurately identify where they are in an indoor setting. Out of the multitude of studies attempting to solve indoor localisation in the context of navigation, only a small minority have attempted to
 develop a navigation system purely based on 2D images with a deep learning method as the core component of the solution. In addition many approaches were quite complex and challenging to set up and maintain (often using wifi beacons, sensors or expensive cameras). 
