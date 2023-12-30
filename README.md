@@ -1,4 +1,4 @@
-# Building Indoor Localization with Deep Learning using Unconstrained Images
+# Building Indoor Localization with Deep Learning using Unconstrained Images.
 
 
 **Project Overview**
