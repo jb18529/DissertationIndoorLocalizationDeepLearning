@@ -1,4 +1,4 @@
-**Project Overview**
+**Project Overview**\
 
 Dissertation Title: Building Indoor Localization with Deep Learning using Unconstrained Images.
 
